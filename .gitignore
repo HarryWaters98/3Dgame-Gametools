@@ -34,3 +34,7 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+3Dgame-tools/UnityPackageManager/manifest.json
+3Dgame-tools/UnityPackageManager/manifest.json
+3Dgame-tools/ProjectSettings/EditorBuildSettings.asset
+3Dgame-tools/ProjectSettings/EditorSettings.asset

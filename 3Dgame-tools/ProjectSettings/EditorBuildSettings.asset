@@ -4,4 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/scenes/menu.unity
+    guid: 5392243f4fca05b4f811cfdb5c6e5809
+  - enabled: 1
+    path: Assets/scenes/dog simulator.unity
+    guid: ff7d8cb51d295814c953947086dd4fcd
+  m_configObjects: {}
